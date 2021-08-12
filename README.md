@@ -1,6 +1,6 @@
 # ANC Neighbors
 
-This is a geospatial analysis of ~600 household addresses to connect church members (Austin New Church) across Austin metro in a data-driven fashion.
+This is a geospatial analysis of household addresses to connect church members (Austin New Church) across Austin metro in a data-driven fashion.
 
 Project overview:
 
@@ -12,16 +12,16 @@ Project overview:
 
 *Note: cell outputs with personal identifying information were cleared*
 
-# Train classifier (kmeans clustering)
+# Train classifier (N = 246)
 <iframe src="maps/training_model.html" height="500" width="500"></iframe>
 
-# Predict new geosptial data points
+# Predict new geosptial data points (N = 108)
 Before applying classifier:
 <iframe src="maps/test_set.html" height="500" width="500"></iframe>
 
 After applying classifier:
 <iframe src="maps/test_set_classified.html" height="500" width="500"></iframe>
 
-# Full map
+# Full map (N = 354)
 
 <iframe src="maps/fullset.html" height="500" width="500"></iframe>
