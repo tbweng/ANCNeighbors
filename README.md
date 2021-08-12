@@ -8,7 +8,7 @@ Project overview:
 - Apply k-means clustering to identify geospatial clusters and classify new datapoints
 - Perform basic descriptive statistics and visualizations for geospatial clusters
 
-**Tools:** *Pandas, NumPy, scikit-learn, folium, Google Maps Geocoding API
+**Tools:** *Pandas, NumPy, scikit-learn, folium, Google Maps Geocoding API*
 
 *Note: cell outputs with personal identifying information were cleared*
 
