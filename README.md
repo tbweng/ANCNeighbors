@@ -10,7 +10,10 @@ Project overview:
 
 **Tools:** *Pandas, NumPy, scikit-learn, folium, Google Maps Geocoding API*
 
+[Link to source code.](https://github.com/tbweng/ANCNeighbors/blob/master/ANCNeighbors.ipynb)
+
 *Note: cell outputs with personal identifying information were cleared*
+
 
 # Train classifier (N = 246)
 <iframe src="maps/training_model.html" height="500" width="500"></iframe>
